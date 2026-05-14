@@ -56,19 +56,10 @@ I enjoy building large systems from scratch and designing clean architectures wi
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=mdbasherx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=mdbasherx&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdbasherx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 # 🌐 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdbasherx)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
 
 ---
 
