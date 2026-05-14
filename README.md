@@ -6,6 +6,8 @@
 
 # 👨‍💻 About Me
 
+🎓 Studied CCNA networking fundamentals and infrastructure concepts.
+
 🔭 Currently working on  
 Modern full-stack platforms, advanced dashboard systems, financial applications, and FiveM infrastructures.
 
@@ -13,10 +15,10 @@ Modern full-stack platforms, advanced dashboard systems, financial applications,
 Developer platforms, dashboard systems, multiplayer infrastructures, and scalable web applications.
 
 🌱 Currently learning  
-Advanced backend architectures, scalability patterns, infrastructure optimization, and DevOps fundamentals.
+Advanced backend architectures, scalability patterns, infrastructure optimization, DevOps fundamentals, and modern infrastructure systems.
 
 💬 Ask me about  
-React, Node.js, MongoDB, FiveM/QBCore systems, dashboard architecture, authentication systems, and UI/UX design.
+React, Node.js, MongoDB, FiveM/QBCore systems, dashboard architecture, authentication systems, UI/UX design, and networking basics.
 
 ⚡ Fun fact  
 I enjoy building large systems from scratch and designing clean architectures with modern UI experiences.
@@ -43,10 +45,12 @@ I enjoy building large systems from scratch and designing clean architectures wi
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Operating Systems
+## Operating Systems & Networking
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-Networking-blue?style=for-the-badge)
 
 ## Tools & Platforms
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
