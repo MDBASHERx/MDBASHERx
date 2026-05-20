@@ -6,24 +6,21 @@
 
 # 👨‍💻 About Me
 
-🎓 Studied CCNA networking fundamentals and infrastructure concepts.
+💻 Passionate full-stack developer focused on building modern web applications, scalable systems, and clean user experiences.
 
-🎮 Experienced with multiplayer systems and game development environments including FiveM and Metin2 infrastructures.
+🛠️ Specialized in developing advanced dashboard systems, backend architectures, and multiplayer infrastructures.
 
-🔭 Currently working on  
-Modern full-stack platforms, advanced dashboard systems, financial applications, and multiplayer infrastructures.
+🚀 Interested in creating high-performance platforms using modern technologies and efficient system design principles.
 
-🤝 Looking to collaborate on  
-Developer platforms, dashboard systems, scalable web applications, and multiplayer systems.
+🎮 Experienced in game-related development environments including FiveM infrastructures and Metin2 systems.
 
-🌱 Currently learning  
-Advanced backend architectures, scalability patterns, infrastructure optimization, DevOps fundamentals, and modern infrastructure systems.
+📚 Background in networking fundamentals, server environments, and infrastructure concepts alongside software development.
 
-💬 Ask me about  
-React, Node.js, MongoDB, FiveM/QBCore systems, Metin2 systems, dashboard architecture, authentication systems, UI/UX design, and networking basics.
+🧠 Continuously improving skills in backend engineering, scalability, DevOps, and modern application architecture.
 
-⚡ Fun fact  
-I enjoy building large systems from scratch and designing clean architectures with modern UI experiences.
+🎯 Strong interest in transforming complex ideas into structured, maintainable, and production-ready systems.
+
+⚡ Enjoy building projects from scratch and turning concepts into fully functional platforms with modern UI/UX experiences.
 
 ---
 
