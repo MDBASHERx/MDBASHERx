@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=30&pause=1000&color=D4AF37&center=true&vCenter=true&width=900&lines=Mohammad+Basher;Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;FiveM+%26+Discord+Systems+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=30&pause=1000&color=D4AF37&center=true&vCenter=true&width=900&lines=MD+BASHER;Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;FiveM+%26+Discord+Systems+Developer" />
 </p>
 
 ---
