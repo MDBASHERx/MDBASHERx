@@ -32,7 +32,7 @@ An Arabic-first hackathon project for AI-assisted learning and career exploratio
 - **My contribution:** authentication, student profiles, chat integration, grade recording, project integration, and release preparation.
 - **Stack:** React, JavaScript, CSS, Node.js, Express, Supabase Auth, PostgreSQL, and Google Gemini.
 
-### EXO Education
+### [EXO](https://github.com/MDBASHERx/exo-edu)
 My graduation project at ORT Jerusalem: an education and attendance management platform with student and lecturer dashboards, course schedules, role-based access, and Zoom integration.
 
 - **Stack:** React, JavaScript, HTML, CSS, Node.js, Express, and MongoDB.
